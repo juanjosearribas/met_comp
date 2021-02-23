@@ -1,0 +1,9 @@
+name: elfin2d
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - math
